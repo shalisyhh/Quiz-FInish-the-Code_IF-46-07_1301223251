@@ -1,0 +1,3 @@
+  - Quiz 12 Pemrograman Berorientasi Objek
+  - Shalisyah Amania Fatiha - 1301223251
+  - IF 46 07
